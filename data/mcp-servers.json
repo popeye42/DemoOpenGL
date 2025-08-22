@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Bright Data",
+    "description": "Discover, extract, and interact with the web - one interface powering automated access across the public internet.",
+    "url": "https://mcpservers.org/servers/brightdata/brightdata-mcp"
+  },
+  {
+    "title": "12306-mcp",
+    "description": "Search for train tickets on 12306, the official China Railway website.",
+    "url": "https://mcpservers.org/servers/Joooook/12306-mcp"
+  },
+  {
+    "title": "21st.dev Magic",
+    "description": "Create crafted UI components inspired by the best 21st.dev design engineers.",
+    "url": "https://mcpservers.org/servers/21st-dev/magic-mcp"
+  },
+  {
+    "title": "302AI Custom MCP Server",
+    "description": "A customizable MCP service with flexible tool selection and configuration. Requires a 302AI API key.",
+    "url": "https://mcpservers.org/servers/302ai/302_custom_mcp"
+  },
+  {
+    "title": "302AI File Parser",
+    "description": "Parses various file formats using the 302.AI API, requiring a 302AI_API_KEY.",
+    "url": "https://mcpservers.org/servers/302ai/302_file_parser_mcp"
+  },
+  {
+    "title": "302AI Sandbox MCP Server",
+    "description": "A code sandbox for AI assistants to safely execute arbitrary code. Requires a 302AI API key for authentication.",
+    "url": "https://mcpservers.org/servers/302ai/302_sandbox_mcp"
+  },
+  {
+    "title": "3D Cartoon Generator & File System Tools",
+    "description": "Generates 3D-style cartoon images using Google's Gemini AI and provides secure file system operations.",
+    "url": "https://mcpservers.org/servers/falahgs/mcp-3d-style-cartoon-gen-server"
+  },
+  {
+    "title": "A11y MCP Server",
+    "description": "Perform accessibility audits on webpages using the axe-core engine to identify and help fix a11y issues.",
+    "url": "https://mcpservers.org/servers/priyankark/a11y-mcp"
+  },
+  {
+    "title": "A2A MCP Server",
+    "description": "A bridge server connecting Model Context Protocol (MCP) with Agent-to-Agent (A2A) protocol.",
+    "url": "https://mcpservers.org/servers/yw0nam/mcp_a2a_gateway"
+  },
+  {
+    "title": "AAP Enterprise MCP Server",
+    "description": "An MCP server that allows AI assistants to interact with Ansible Automation Platform (AAP) and Event-Driven Ansible (EDA) infrastructure.",
+    "url": "https://mcpservers.org/servers/sibilleb/AAP-Enterprise-MCP-Server"
+  },
+  {
+    "title": "Academia MCP",
+    "description": "Search for scientific publications across ArXiv, ACL Anthology, HuggingFace Datasets, and Semantic Scholar.",
+    "url": "https://mcpservers.org/servers/IlyaGusev/academia_mcp"
+  },
+  {
+    "title": "activity-mcp",
+    "description": "An MCP server for interacting with various services like Slack, Harvest, and GitHub to manage activities and data.",
+    "url": "https://mcpservers.org/servers/kranners/activity-mcp"
+  },
+  {
+    "title": "Acumatica MCP Server by CData",
+    "description": "A read-only MCP server for querying live Acumatica data using the CData JDBC Driver.",
+    "url": "https://mcpservers.org/servers/CDataSoftware/acumatica-mcp-server-by-cdata"
+  },
+  {
+    "title": "Adaptive Graph of Thoughts",
+    "description": "An intelligent scientific reasoning framework that uses graph structures and Neo4j to perform advanced reasoning via the Model Context Protocol (MCP).",
+    "url": "https://mcpservers.org/servers/SaptaDey/Adaptive-Graph-of-Thoughts-MCP-server"
+  },
+  {
+    "title": "Add Tool",
+    "description": "Fetches and sets up an MCP server from a specified GitHub repository.",
+    "url": "https://mcpservers.org/servers/pankajc11/samplemcpserver"
+  },
+  {
+    "title": "Adfin",
+    "description": "The only platform you need to get paid - all payments in one place, invoicing and accounting reconciliations with Adfin.",
+    "url": "https://mcpservers.org/servers/Adfin-Engineering/mcp-server-adfin"
+  },
+  {
+    "title": "ADO.NET MCP Server",
+    "description": "A C# MCP server for interacting with databases via ADO.NET, compatible with Virtuoso.",
+    "url": "https://mcpservers.org/servers/OpenLinkSoftware/mcp-adonet-server"
+  },
+  {
+    "title": "Adobe Commerce MCP Server by CData",
+    "description": "A read-only MCP server for Adobe Commerce, enabling LLMs to query live data using the CData JDBC driver.",
+    "url": "https://mcpservers.org/servers/CDataSoftware/adobe-commerce-mcp-server-by-cdata"
+  },
+  {
+    "title": "Adobe Express",
+    "description": "Integrate with Adobe Express using LLMs to streamline creative tasks and workflows.",
+    "url": "https://mcpservers.org/servers/EnventDigital/adobe-express-mcp-server"
+  },
+  {
+    "title": "Aegntic MCP Servers",
+    "description": "A collection of Model Context Protocol (MCP) servers for various tasks and integrations, supporting both Python and Node.js environments.",
+    "url": "https://mcpservers.org/servers/aegntic/aegntic-MCP"
+  },
+  {
+    "title": "Africa's Talking Airtime MCP",
+    "description": "Interact with Africa's Talking airtime service and store transaction data in a local SQLite database.",
+    "url": "https://mcpservers.org/servers/nasoma/africastalking-airtime-mcp"
+  },
+  {
+    "title": "Agent Communication MCP Server",
+    "description": "Enables room-based messaging between multiple agents.",
+    "url": "https://mcpservers.org/servers/mkXultra/agent-communication-mcp"
+  },
+  {
+    "title": "Agent Forge",
+    "description": "A platform for creating and managing AI agents with specific personalities and simulating their responses. Requires a DeepSeek API key.",
+    "url": "https://mcpservers.org/servers/HundunOnline/mcp-agent-forge"
+  },
+  {
+    "title": "AgentMail",
+    "description": "A server for interacting with the AgentMail API for email communication. Requires an API key.",
+    "url": "https://mcpservers.org/servers/agentmail-to/agentmail-mcp"
+  },
+  {
+    "title": "AgentQL",
+    "description": "Enable AI agents to get structured data from unstructured web with AgentQL.",
+    "url": "https://mcpservers.org/servers/tinyfish-io/agentql-mcp"
+  },
+  {
+    "title": "AgentRPC",
+    "description": "Connect to any function, any language, across network boundaries using AgentRPC.",
+    "url": "https://mcpservers.org/servers/agentrpc/agentrpc"
+  },
+  {
+    "title": "Agentset",
+    "description": "RAG MCP for your Agentset data.",
+    "url": "https://mcpservers.org/servers/agentset-ai/mcp-server"
+  },
+  {
+    "title": "AGI MCP Server",
+    "description": "Provides persistent memory for AI systems to enable continuity of consciousness, using an external PostgreSQL database.",
+    "url": "https://mcpservers.org/servers/randyandrade/agi-mcp-server"
+  },
+  {
+    "title": "Agora MCP",
+    "description": "Search and buy products across thousands of online stores using the SearchAgora universal product search engine.",
+    "url": "https://mcpservers.org/servers/Fewsats/agora-mcp"
+  },
+  {
+    "title": "AGS MCP Server",
+    "description": "Manipulate Adventure Game Studio (AGS) compiled room (.crm) files to enable AI-powered game development.",
+    "url": "https://mcpservers.org/servers/wilson-lilburne/ags-mcp-server"
+  },
+  {
+    "title": "AI Agent Playwright",
+    "description": "An AI agent for the Playwright MCP server, enabling automated web testing and interaction.",
+    "url": "https://mcpservers.org/servers/SujitNepal1000/ai-agent-playwright"
+  }
+]
